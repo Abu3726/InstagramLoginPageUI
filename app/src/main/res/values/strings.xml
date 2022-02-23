@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstagramLoginPage</string>
+    <string name="signin">Don\'t you have an account? <B>Sign up</B></string>
+    <string name="signup">Don\'t you have an account? <B>Sign in</B></string>
+</resources>
